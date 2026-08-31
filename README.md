@@ -1,4 +1,4 @@
-# Document Development Life Cycle (DDLC) Framework
+# Preparing a Document from Scratch - Framework
 
 The process of developing and writing a document from scratch closely mirrors the Software Development Life Cycle (SDLC). As a Technical Writer, you must ensure that every document serves a clear purpose, targets a specific audience, and fulfills a defined need. 
 
